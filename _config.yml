@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: UCSB CMPTGCS 20 S16 (CCS CS for non-majors)
+email: pconrad@cs.ucsb.edu
+description: > # this means to ignore newlines until "baseurl:"
+  UCSB CCS CS for non-majors, CMPTGCS 20, Spring 2016 (S16).
+  This blog is a Jekyll based site with homework assignments
+  taken from Guttag's Python textbook. The instructor is Phill Conrad,
+  Lecturer (SOE) (i.e. teaching faculty) at UC Santa Barbara.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ucsb-cmptgcs20-s16.github.io/UCSB-CMPTGCS20-S16-Homework/" # the base hostname & protocol for your site
+twitter_username: pconrad
+github_username:  pconrad
+
+# Build settings
+markdown: kramdown
