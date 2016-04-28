@@ -5,6 +5,8 @@ date:   2016-04-28 09:38:13 -0700
 categories: hwk S16 CS20 H01
 ---
 
+[Print friendly PDF version](http://www.cs.ucsb.edu/~pconrad/cs20/16S/pdf/CS20-S16-H01.pdf)
+
 <div style="font-size:80%; page-break-before:always;">&nbsp;</div>
 
 UCSB CMPTGCS20 S16 H01.  Due Thu May 5, 2016.  Page 1 of 2
