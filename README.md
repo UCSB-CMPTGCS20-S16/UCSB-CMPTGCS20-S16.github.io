@@ -9,3 +9,6 @@ Also: use the gh-pages branch, not the master branch
 ```
 bundle exec jekyll serve
 ```
+
+Then visit: http://localhost:4000
+
