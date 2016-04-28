@@ -8,5 +8,5 @@ permalink: /about/
 * More CMPTGCS 20 Course Materials on the website: [foo.cs.ucsb.edu/8wiki](https://foo.cs.ucsb.edu/8wiki)
 * About the [College of Creative Studies](https://ccs.ucsb.edu)
 * More about [Phill Conrad](https://www.cs.ucsb.edu/~pconrad)
-
+* [Source code for this site on github.com](https://github.com/UCSB-CMPTGCS20-S16/UCSB-CMPTGCS20-S16.github.io)
 

@@ -43,6 +43,11 @@ $on-laptop:        800px;
     }
 }
 
+@media print {
+  body * {font-family: "Times Roman", Times, serif;
+          font-size: 14px;
+	  }
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

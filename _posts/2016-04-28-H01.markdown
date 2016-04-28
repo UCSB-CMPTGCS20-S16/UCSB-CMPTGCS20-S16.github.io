@@ -5,6 +5,10 @@ date:   2016-04-28 09:38:13 -0700
 categories: hwk S16 CS20 H01
 ---
 
+<div style="font-size:80%; page-break-before:always;">&nbsp;</div>
+
+UCSB CMPTGCS20 S16 H01.  Due Thu May 5, 2016.  Page 1 of 2
+
 Please read Chapter 2 in the [Guttag textbook](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0).
 
 Note that on Page 10, there is one potential source of confusion:
@@ -21,14 +25,17 @@ After reading Chapter 2, answer these questions:
 
 (1) (10 pts) Guttag discusses variables and names at some length on pages 11 and 12 (section 2.1.2)  What are the four most important points that you would take away from this section?
 
-
+<div style="margin-bottom:8em;">&nbsp;</div>
 
 (2) (10 pts) In Python, indentation and nesting are signficant concepts.  Guttag offers an explanation of these, with some examples.  If you feel like you understand these from his explanation, my question is: how would YOU explain these concepts to someone new to the Python language? That is: use your own words, not Guttag's.    If you feel like your understanding is still not firm, what questions would you ask about indentation and nesting, after reading Guttag's explanation?
 
+<div style="margin-bottom:8em;page-break-after:always;">&nbsp;</div>
 
+UCSB CMPTGCS20 S16 H01.  Due Thu May 5, 2016.  Page 2 of 2
 
 (3) (10 pts) Suppose you want a Python program to ask the user a question (e.g. "What is your name"?) and store the answer in a variable called "users_name".  How do you do that?
 
+<div style="margin-bottom:8em;">&nbsp;</div>
 
 (4) (15 pts) Guttag discusses iteration in Section 2.4.   A while loop continues while its condition is true, and ends when its condition is false.   If it's condition is false the first time it is encountered, the body of the loop is never even executed once.
 
@@ -40,5 +47,12 @@ These leaves us with three possibilities:
 
 Write an example of each of these kinds of while loops in Python.  Try them in IDLE and see what happens.
 
+<div style="margin-bottom:12em;">&nbsp;</div>
+
 (5) (5 pts) Try the "finger exercise" on p. 20.
 
+<div style="margin-bottom:12em;">&nbsp;</div>
+
+End of H01
+
+<div style="margin-bottom:1em;page-break-after:always">&nbsp;</div>
