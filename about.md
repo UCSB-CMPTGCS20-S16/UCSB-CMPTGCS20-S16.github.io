@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+* [CMPTGCS 20 course description](https://ccs.ucsb.edu/courses/introduction-to-computer-science-non-majors)
+* More CMPTGCS 20 Course Materials on the website: [foo.cs.ucsb.edu/8wiki](https://foo.cs.ucsb.edu/8wiki)
+* About the [College of Creative Studies](https://ccs.ucsb.edu)
+* More about [Phill Conrad](https://www.cs.ucsb.edu/~pconrad)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)

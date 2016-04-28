@@ -6,16 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: UCSB CMPTGCS 20 S16 (CCS CS for non-majors)
+email: pconrad@cs.ucsb.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  UCSB CCS CS for non-majors, CMPTGCS 20, Spring 2016 (S16).
+  This blog is a Jekyll based site with homework assignments
+  taken from Guttag's Python textbook. The instructor is Phill Conrad,
+  Lecturer (SOE) (i.e. teaching faculty) at UC Santa Barbara.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://ucsb-cmptgcs20-s16.github.io/UCSB-CMPTGCS20-S16-Homework/" # the base hostname & protocol for your site
+twitter_username: pconrad
+github_username:  pconrad
 
 # Build settings
 markdown: kramdown
