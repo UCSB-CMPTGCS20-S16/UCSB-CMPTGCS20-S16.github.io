@@ -21,3 +21,5 @@ github_username:  pconrad
 
 # Build settings
 markdown: kramdown
+
+exclude: [vendor]
