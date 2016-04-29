@@ -5,7 +5,9 @@ date:   2016-04-28 08:50:13 -0700
 categories: hwk S16 CS20
 ---
 
-For various reasons, I'm experimenting with a new way of publishing homework assignments to the web.  (See more on my reasons, below.)
+
+
+For various reasons, I'm experimenting with a new way of publishing homework assignments to the web.  (See more on my reasons, below.)  The new site is here: [https://UCSB-CMPTGCS20-S16.github.io](https://UCSB-CMPTGCS20-S16.github.io)
 
 H00 is still on the old Mediawiki site for now, but if all goes well, H01 and future homeworks will be published here.
 
