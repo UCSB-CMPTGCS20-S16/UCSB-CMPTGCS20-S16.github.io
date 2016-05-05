@@ -24,13 +24,19 @@ Please read Chapter 3 in the [Guttag textbook](https://mitpress.mit.edu/books/in
 
 <div style="margin-bottom:8em;">&nbsp;</div>
 
-(2) (10 pts) TBA
+(2) Read Section 3.3 about Floats and Binary. Then answer these questions:
 
+(a) Try the experiment that Guttag outlines at the start of Section 3.2, i.e. type in and run the Python code.  Do you get the same result he did, or something different?  Describe your findings.
+
+<div style="margin-bottom:8em;">&nbsp;</div>
+
+(b) What is the decimal equivalent of 11010 ?
 
 <div style="margin-bottom:8em;page-break-after:always;">&nbsp;</div>
 
 UCSB CMPTGCS20 S16 H02.    Page 2 of 2
 
+Read section 3.2 and 3.4 about two ways of computing square roots.  Following this may help you in the following exercise.
 
 (3) (20 pts) Here is a cyber-dojo practice session: http://cyber-dojo.org/enter/show/E87A4DDE09 based on the finger exercise from Section 3.1 of Guttag's book.     This version is slightly different: instead of printing out the results, we return them as the first two elements of a list.   
 
