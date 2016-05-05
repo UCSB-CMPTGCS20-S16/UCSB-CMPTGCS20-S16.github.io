@@ -43,7 +43,7 @@ def findRootPwr(number):
 </tr>
 <tr>
  <td border="1"><div style="margin-bottom:8em;>&nbsp;</div></td>
- <td border="1"><div style="margin-bottom:8em;>&nbsp;</div></td>
+ <td border="1"><div style="margin-bottom:8em;">&nbsp;</div></td>
 </tr>
 </table>
 
