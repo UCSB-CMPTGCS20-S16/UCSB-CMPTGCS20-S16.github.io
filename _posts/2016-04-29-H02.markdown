@@ -37,17 +37,14 @@ def findRootPwr(number):
 ```
 
 <table border="1">
-
 <tr>
  <th style="width:50%">First Attempt</th>
  <th style="width:50%">Final Correct Solution</th>
 </tr>
-
 <tr>
  <td border="1"><div style="margin-bottom:8em;>&nbsp;</div></td>
  <td border="1"><div style="margin-bottom:8em;>&nbsp;</div></td>
 </tr>
-
 </table>
 
 <div style="margin-bottom:8em;page-break-after:always;">&nbsp;</div>
