@@ -7,9 +7,10 @@ categories: hwk S16 CS20 H02
 
 [Print friendly PDF version](http://www.cs.ucsb.edu/~pconrad/cs20/16S/pdf/CS20-S16-H02.pdf)
 
-<div style="font-size:80%; page-break-before:always;">&nbsp;</div>
+<div style="font-size:80%; page-break-before:always;margin-bottom:3em;">&nbsp;</div>
 
-UCSB CMPTGCS20 S16 H02.  Due Tue May 10, 2016.  Page 1 of 2
+NAME: __________________________________________________________________<br>
+UCSB CMPTGCS20 S16 H02.  Due Tue May 10, 2016.  Page 1 of 2<br>
 
 Please read Chapter 3 in the [Guttag textbook](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0), then answer these questions:
 
@@ -26,11 +27,11 @@ Please read Chapter 3 in the [Guttag textbook](https://mitpress.mit.edu/books/in
 
 (2) Read Section 3.3 about Floats and Binary. Then answer these questions:
 
-(a) Try the experiment that Guttag outlines at the start of Section 3.2, i.e. type in and run the Python code.  Do you get the same result he did, or something different?  Describe your findings.
+(a) (5 pts) Try the experiment that Guttag outlines at the start of Section 3.2, i.e. type in and run the Python code.  Do you get the same result he did, or something different?  Describe your findings.
 
 <div style="margin-bottom:8em;">&nbsp;</div>
 
-(b) What is the decimal equivalent of 11010 ?
+(b) (5 pts) What is the decimal equivalent of 11010 ?
 
 <div style="margin-bottom:8em;page-break-after:always;">&nbsp;</div>
 
