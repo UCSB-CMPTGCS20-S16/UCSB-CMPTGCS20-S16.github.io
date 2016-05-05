@@ -42,7 +42,7 @@ def findRootPwr(number):
  <th style="width:50%">Final Correct Solution</th>
 </tr>
 <tr>
- <td border="1"><div style="margin-bottom:8em;>&nbsp;</div></td>
+ <td border="1"><div style="margin-bottom:8em;">&nbsp;</div></td>
  <td border="1"><div style="margin-bottom:8em;">&nbsp;</div></td>
 </tr>
 </table>
