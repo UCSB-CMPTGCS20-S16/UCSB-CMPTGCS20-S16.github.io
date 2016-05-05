@@ -24,11 +24,19 @@ Please read Chapter 3 in the [Guttag textbook](https://mitpress.mit.edu/books/in
 
 <div style="margin-bottom:8em;">&nbsp;</div>
 
-(2) (10 pts) Here is a cyber-dojo practice session: http://cyber-dojo.org/enter/show/E87A4DDE09 based on the finger exercise from Section 3.1 of Guttag's book.     This version is slightly different: instead of printing out the results, we return them as the first two elements of a list.   
+(2) (10 pts) TBA
+
+
+<div style="margin-bottom:8em;page-break-after:always;">&nbsp;</div>
+
+UCSB CMPTGCS20 S16 H02.    Page 2 of 2
+
+
+(3) (20 pts) Here is a cyber-dojo practice session: http://cyber-dojo.org/enter/show/E87A4DDE09 based on the finger exercise from Section 3.1 of Guttag's book.     This version is slightly different: instead of printing out the results, we return them as the first two elements of a list.   
 
 I'd like you to try the exercise in cyber dojo--but FIRST, try writing out a solution the problem below.   Here is the "stub" of the Python function.  Underneath it, write your "first attempt" at a final correct solution.
 
-Then, try either testing your solution in cyber-dojo.org by typing it in immediately, or by incrementally developing a solution--one that passes one test case at a time.    Then write down your FINAL correct solution.   
+Then, try either testing your solution in cyber-dojo.org by typing it in immediately, or by incrementally developing a solution--one that passes one test case at a time.    Then write down your FINAL correct solution.     It's ok if your first attempt doesn't work right.     If your final solution still isn't working at the time the homework is "due", that's ok too.  I'm more interested in your learning process than your outcome.  If it doesn't work, we can look together at why, and what you need to learn to be able to write a correct solution.
 
 Stub:
 
@@ -48,20 +56,8 @@ def findRootPwr(number):
 </tr>
 </table>
 
-<div style="margin-bottom:8em;page-break-after:always;">&nbsp;</div>
+(4) (10 pts) If your first version worked, reflect on what you had to do to get a working version on the first try.   If the first version didn't work, but your subsequent attempt did, reflect on what you had to adjust in your thinking to get to a working version.  If your code still doesn't work, reflect on your process up to this point.
 
-UCSB CMPTGCS20 S16 H02.    Page 2 of 2
-
-(3) (10 pts) TBA
-
-<div style="margin-bottom:8em;">&nbsp;</div>
-
-(4) (15 pts) TBA
-
-
-<div style="margin-bottom:12em;">&nbsp;</div>
-
-(5) (5 pts) TBA
 
 <div style="margin-bottom:12em;">&nbsp;</div>
 
