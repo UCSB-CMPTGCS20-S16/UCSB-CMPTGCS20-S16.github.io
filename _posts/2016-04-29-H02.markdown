@@ -31,6 +31,7 @@ I'd like you to try the exercise in cyber dojo--but FIRST, try writing out a sol
 Then, try either testing your solution in cyber-dojo.org by typing it in immediately, or by incrementally developing a solution--one that passes one test case at a time.    Then write down your FINAL correct solution.   
 
 Stub:
+
 ```
 def findRootPwr(number):
   return [-1,-1]
