@@ -36,7 +36,7 @@ def findRootPwr(number):
   return [-1,-1]
 ```
 
-<span>First Attempt</span>&nbsp;<span style="margin-left:20em;">Final correct solution</span>
+<span>First Attempt</span>&nbsp;<span style="padding-left:20em;">Final correct solution</span>
 
 <div style="margin-bottom:8em;page-break-after:always;">&nbsp;</div>
 
