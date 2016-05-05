@@ -39,7 +39,7 @@ def findRootPwr(number):
 
 | <span style="width:20em;">First Attempt</span>  | <span style="width:30em;">Final correct solution</span> |
 |---|---|
-| <div style="margin-top: 5em; margin-left:5em;">&nbsp;</div>  |   |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><br><br><br><br><br><br>  |   |
 
 
 <span>First Attempt</span>&nbsp;<span style="padding-left:20em;">Final correct solution</span>
