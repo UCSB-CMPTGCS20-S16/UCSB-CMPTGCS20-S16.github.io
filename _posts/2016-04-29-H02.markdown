@@ -32,10 +32,10 @@ Then, try either testing your solution in cyber-dojo.org by typing it in immedia
 
 Stub:
 
-```
+~~~
 def findRootPwr(number):
   return [-1,-1]
-```
+~~~
 
 <table border="1">
 <tr>
