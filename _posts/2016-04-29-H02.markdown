@@ -14,11 +14,29 @@ UCSB CMPTGCS20 S16 H02.  Due Tue May 10, 2016.  Page 1 of 2
 Please read Chapter 3 in the [Guttag textbook](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0), then answer these questions:
 
 
-(1) (10 pts) TBA
+(1) Section 3.1 describes "exhaustive enumeriation"
+
+(a) (5 pts) What does the word "exhaustive" mean in this context? 
 
 <div style="margin-bottom:8em;">&nbsp;</div>
 
-(2) (10 pts) TBA
+(b) (5 pts) What does the word "enumeration" mean in this context? 
+
+<div style="margin-bottom:8em;">&nbsp;</div>
+
+(2) (10 pts) Here is a cyber-dojo practice session: http://cyber-dojo.org/enter/show/E87A4DDE09 based on the finger exercise from Section 3.1 of Guttag's book.     This version is slightly different: instead of printing out the results, we return them as the first two elements of a list.   
+
+I'd like you to try the exercise in cyber dojo--but FIRST, try writing out a solution the problem below.   Here is the "stub" of the Python function.  Underneath it, write your "first attempt" at a final correct solution.
+
+Then, try either testing your solution in cyber-dojo.org by typing it in immediately, or by incrementally developing a solution--one that passes one test case at a time.    Then write down your FINAL correct solution.   
+
+Stub:
+```
+def findRootPwr(number):
+  return [-1,-1]
+```
+
+<span>First Attempt</span>&nbsp;<span style="margin-right:20em;">Final correct solution</span>
 
 <div style="margin-bottom:8em;page-break-after:always;">&nbsp;</div>
 
