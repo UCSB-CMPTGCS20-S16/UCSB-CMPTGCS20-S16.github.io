@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "H02"
+title:  "Hxx"
 date:   2016-04-29 09:50:13 -0700
-categories: hwk S16 CS20 H02
+categories: hwk S16 CS20 Hxx
 ---
 
 [Print friendly PDF version](http://www.cs.ucsb.edu/~pconrad/cs20/16S/pdf/CS20-S16-H02.pdf)
